@@ -1,5 +1,6 @@
 # core-java-shape-based-game
-This is a console-based java application
+This is a console-based java application.
+
 An educational shape-based game built using Core Java to demonstrate OOP concepts like inheritance, polymorphism, interfaces, and HAS-A relationships.
 
 Technologies Used:- Core Java (Class, Object, Constructor, Inheritance, Polymorphism, Upcasting,
