@@ -24,3 +24,8 @@ selected shape, including crucial metrics such as area and volume. This not only
 on learning experience but also reinforces core programming paradigms. This project showcases my
 ability to blend educational content with advanced programming techniques, demonstrating a
 commitment to both effective learning and software development expertise.
+
+## Run Instructions
+This is a console-based Java application.  
+Run the main class and follow the console menu to interact with different shapes.
+
